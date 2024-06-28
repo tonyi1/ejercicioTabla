@@ -1,0 +1,28 @@
+*{
+    margin: 0PX;
+    padding: 0PX;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+table{
+    border: 3px solid darkcyan;
+    width: 80%;
+}
+
+th{
+    background-color: blue;
+    color: azure;
+
+}
+td{
+    padding: 10px;
+    text-align: center;
+    border: 1px solid darkcyan;
+}
+tr:nth-child(odd){
+ 
+}
+
+.descripcion{
+    width: 30%;
+}
